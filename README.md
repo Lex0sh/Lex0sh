@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lex0sh
 - 👀 I’m interested in space, robotics and history))
-- 🌱 I’m currently learning Pyton and PostgreSQL
+- 🌱 I’m currently learning Python and PostgreSQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
