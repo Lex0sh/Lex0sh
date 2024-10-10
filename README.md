@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Lex0sh
 - 👀 I’m interested in space, robotics and history))
-- 🌱 I’m currently learning C++ and bash
-- 📫 How to reach me ...
+- 🌱 I’m learning C++ and bash
